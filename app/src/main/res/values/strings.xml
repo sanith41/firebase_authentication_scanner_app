@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase_scanning</string>
+    <string name="Login">login</string>
+    <string name="click_to_login">login_now</string>
+
+    <string name="Register">register</string>
+    <string name="click_to_register">register_now</string>
+    <string name="logout">logout</string>
+    <string name="Registerbtn">register_btn</string>
+    <string name="scan">scan</string>
+</resources>

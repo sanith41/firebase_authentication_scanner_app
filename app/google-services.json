@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424845025998",
+    "project_id": "fir-scanning-c591d",
+    "storage_bucket": "fir-scanning-c591d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424845025998:android:323a4de19d49185644e69f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_scanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424845025998-lph7143a22maigsh6brqvkiik06fuhi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyA2hs8gAMCxEbvDA5CHQozmek__ra9Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424845025998-lph7143a22maigsh6brqvkiik06fuhi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
